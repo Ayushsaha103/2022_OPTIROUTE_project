@@ -1,5 +1,12 @@
 # 2022_OPTIROUTE_project
-Optimized 3D path finding
+### Optimized 3D path finding
+Project concept: allows users to:
+1) calculate optimal path for road vehicles over hilly terrains (using kinematics equations)
+2) calculate optimal path for airplane in windy sky (using E6B calculations)
+
+Details:
+- Implementation done via Graph representation of region of traversal
+- Google Cloud used to automatically pull real world data
 
 ![image](https://github.com/Ayushsaha103/2022_OPTIROUTE_project/assets/71895904/5878c86d-9560-4a18-83fd-aee699533216)
 
