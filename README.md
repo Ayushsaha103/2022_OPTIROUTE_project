@@ -1,5 +1,7 @@
 # 2022_OPTIROUTE_project
 ### Optimized 3D path finding
+[![Introduction](https://youtu.be/Tfp1SkQT0rU)
+
 Project concept: allows users to:
 1) calculate optimal path for road vehicles over hilly terrains (using kinematics equations)
 2) calculate optimal path for airplane in windy sky (using E6B calculations)
