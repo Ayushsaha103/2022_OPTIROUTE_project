@@ -1,7 +1,6 @@
 # 2022_OPTIROUTE_project
 ### Optimized 3D path finding
-[![![image](https://github.com/Ayushsaha103/2022_OPTIROUTE_project/assets/71895904/abf93332-32bb-4043-9f11-cfa24c4b8e19)
-](https://youtu.be/Tfp1SkQT0rU)
+[![Uploading image.png…](https://youtu.be/Tfp1SkQT0rU)
 
 Project concept: allows users to:
 1) calculate optimal path for road vehicles over hilly terrains (using kinematics equations)
