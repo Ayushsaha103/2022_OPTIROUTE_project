@@ -1,5 +1,10 @@
 # 2022_OPTIROUTE_project
-### Optimized 3D path finding
+
+### Please visit the colab notebook for OPTIROUTE here: https://colab.research.google.com/drive/1kelIuotRVrFrWSdFq88B_Z7ugxblrr9T
+Run program: click Runtime -> Run all
+
+
+### Project Description & Details
 Visit YouTube Introduction here: https://youtu.be/Tfp1SkQT0rU
 
 Project concept: allows users to:
@@ -11,6 +16,3 @@ Details:
 - Google Cloud used to automatically pull real world data
 
 ![image](https://github.com/Ayushsaha103/2022_OPTIROUTE_project/assets/71895904/5878c86d-9560-4a18-83fd-aee699533216)
-
-### Please visit the colab notebook for OPTIROUTE here: https://colab.research.google.com/drive/1kelIuotRVrFrWSdFq88B_Z7ugxblrr9T
-Run program: click Runtime -> Run all
